@@ -1,0 +1,811 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"r",
+				"roll"
+			],
+			[
+				"d",
+				"dice"
+			],
+			[
+				"ra",
+				"randint"
+			],
+			[
+				"p",
+				"path"
+			],
+			[
+				"pr",
+				"print"
+			],
+			[
+				"f",
+				"from"
+			],
+			[
+				"i",
+				"import"
+			],
+			[
+				"c",
+				"course_4"
+			],
+			[
+				"be",
+				"beginners"
+			],
+			[
+				"P",
+				"Python"
+			],
+			[
+				"co",
+				"course"
+			],
+			[
+				"weight_",
+				"weight_in_lbs"
+			],
+			[
+				"we",
+				"weightinkilos"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"ba",
+				"background\tproperty"
+			],
+			[
+				"l",
+				"link\tTag"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"de",
+				"detail"
+			],
+			[
+				"past",
+				"test_past_question"
+			],
+			[
+				"ass",
+				"assertEqual"
+			],
+			[
+				"re",
+				"reverse"
+			],
+			[
+				"cl",
+				"class\tNew Class"
+			],
+			[
+				"get",
+				"get_queryset"
+			],
+			[
+				"asse",
+				"assertContains"
+			],
+			[
+				"q",
+				"question"
+			],
+			[
+				"qu",
+				"question_text"
+			],
+			[
+				"te",
+				"test_past_question"
+			],
+			[
+				"da",
+				"days"
+			],
+			[
+				"cre",
+				"create_question"
+			],
+			[
+				"tes",
+				"test_no_questions"
+			],
+			[
+				"tim",
+				"timedelta"
+			],
+			[
+				"ti",
+				"time"
+			],
+			[
+				"pub",
+				"pub_date"
+			],
+			[
+				"la",
+				"latest_question_list"
+			],
+			[
+				"date",
+				"datetime"
+			],
+			[
+				"w",
+				"test_was_published_recently_with_future_question"
+			],
+			[
+				"Q",
+				"Question"
+			],
+			[
+				"ge",
+				"get_object_or_404"
+			],
+			[
+				"res",
+				"results"
+			],
+			[
+				"ht",
+				"HttpResponseRedirect"
+			],
+			[
+				"s",
+				"selected_choice"
+			],
+			[
+				"cho",
+				"choice_set"
+			],
+			[
+				"h",
+				"h1\tTag"
+			],
+			[
+				"u",
+				"ul\tTag"
+			],
+			[
+				"t",
+				"text"
+			],
+			[
+				"b",
+				"b\tTag"
+			],
+			[
+				"if",
+				"ife\tif … else"
+			],
+			[
+				"fa",
+				"Fahrenheit"
+			],
+			[
+				"g",
+				"getElementById"
+			],
+			[
+				"E",
+				"Error"
+			],
+			[
+				"us",
+				"Username"
+			],
+			[
+				"mysqli_connect_",
+				"mysqli_connect_error"
+			],
+			[
+				"my",
+				"mysqli_connect"
+			],
+			[
+				"fo",
+				"font-size\tproperty"
+			],
+			[
+				"onc",
+				"onclick\tAttr"
+			],
+			[
+				"reg",
+				"register"
+			],
+			[
+				"it",
+				"italic\tfont-style"
+			],
+			[
+				"tex",
+				"text-shadow\tproperty"
+			],
+			[
+				"para",
+				"para2"
+			],
+			[
+				"bor",
+				"border-width\tproperty"
+			],
+			[
+				"bo",
+				"background-color"
+			],
+			[
+				"bord",
+				"border-style\tproperty"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"li",
+				"line-height\tproperty"
+			],
+			[
+				"fon",
+				"font-family\tproperty"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"mo",
+				"monty_python"
+			],
+			[
+				"month",
+				"months_left"
+			],
+			[
+				"m",
+				"months_left"
+			],
+			[
+				"fi",
+				"firs_num"
+			],
+			[
+				"gues",
+				"guess_count"
+			],
+			[
+				"ho",
+				"homie"
+			],
+			[
+				"n",
+				"num1-num2"
+			],
+			[
+				"shi",
+				"ship3"
+			],
+			[
+				"sh",
+				"ship"
+			],
+			[
+				"fr",
+				"free_shipping"
+			],
+			[
+				"cos",
+				"cost"
+			],
+			[
+				"nu",
+				"num3"
+			],
+			[
+				"is",
+				"is_tall"
+			],
+			[
+				"e",
+				"extend"
+			],
+			[
+				"a",
+				"age"
+			],
+			[
+				"pad",
+				"padding-top\tproperty"
+			],
+			[
+				"err",
+				"Error"
+			],
+			[
+				"els",
+				"else"
+			],
+			[
+				"mysql",
+				"mysql_error"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"onmo",
+				"onmouseover\tAttr"
+			],
+			[
+				"onk",
+				"onkeypress\tAttr"
+			],
+			[
+				"fu",
+				"fun\tFunction"
+			],
+			[
+				"on",
+				"onblur\tAttr"
+			],
+			[
+				"onm",
+				"onmouseover\tAttr"
+			],
+			[
+				"wo",
+				"word"
+			],
+			[
+				"wor",
+				"words"
+			],
+			[
+				"activi",
+				"activity_id"
+			],
+			[
+				"font",
+				"font-family\tproperty"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"character",
+				"character_age"
+			],
+			[
+				"ch",
+				"character_name"
+			],
+			[
+				"Re",
+				"Required"
+			],
+			[
+				"R",
+				"required\tAttr"
+			],
+			[
+				"db",
+				"dbPassword"
+			],
+			[
+				"signup",
+				"Signup"
+			],
+			[
+				"mysqli_c",
+				"mysqli_connect_error"
+			],
+			[
+				"filt",
+				"filter_input"
+			],
+			[
+				"pop",
+				"Population"
+			],
+			[
+				"ar",
+				"array"
+			],
+			[
+				"arr",
+				"array\t$… = array (…)"
+			],
+			[
+				"ca",
+				"cars"
+			],
+			[
+				"fl",
+				"float\tproperty"
+			],
+			[
+				"lo",
+				"login"
+			],
+			[
+				"mysq",
+				"mysql_connect"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"rem",
+				"remember"
+			],
+			[
+				"loca",
+				"location"
+			],
+			[
+				"em",
+				"email"
+			],
+			[
+				"se",
+				"session_destroy"
+			],
+			[
+				"th",
+				"this"
+			],
+			[
+				"user",
+				"usertype"
+			],
+			[
+				"con",
+				"conn"
+			],
+			[
+				"use",
+				"usertype"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"sub",
+				"submit"
+			],
+			[
+				"for",
+				"form\tTag"
+			],
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
+				"count",
+				"counter"
+			],
+			[
+				"ec",
+				"echo\techo \"…\""
+			],
+			[
+				"fuc_",
+				"func_get_args"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"Arithmetic"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 120.0,
+		"history":
+		[
+			"print(\"_\"* 70)",
+			"say_hi",
+			"hi"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Elizabeth Ssebuliba/Documents/Abanoba/ACCESORIES/ARTICLES AND STUFF FOR SCHOOL/Programming/TCM/Images/Kioptix Level 1/Kioptix Level 1.vmx",
+		"/C/Users/Visitor/Documents/Projects/Python/Web Scraping/Intro to Web s. and why.txt",
+		"/C/Users/Visitor/Documents/Projects/Python/MoshHamedani/Solo examples/generating_random_values.py",
+		"/C/Users/Visitor/Documents/Projects/Python/MoshHamedani/ecommerce/shipping.py",
+		"/C/Users/Visitor/Documents/Projects/Python/MoshHamedani/ecommerce/__init__.py",
+		"/C/Users/Visitor/Documents/Projects/Python/MoshHamedani/Solo examples/Parameters.py",
+		"/C/Users/Elizabeth Ssebuliba/OneDrive/Setups/Guilty pl/Jona/Red.Embrace.Hollywood/Red.Embrace.Hollywood/Red.Embrace.Hollywood/lib/pythonlib2.7/json/__init__.pyo",
+		"/C/Users/Visitor/Documents/Projects/Python/MoshHamedani/Solo examples/peasnca.py",
+		"/C/Users/Visitor/Documents/Projects/Python/Projects/Youtube Playlist downloader/stackoverflow.py",
+		"/C/Users/Visitor/Documents/Projects/Python/Challenges/if-else.txt",
+		"/C/Users/Visitor/Documents/Projects/Python/Projects/Youtube Playlist downloader/mine.py",
+		"/C/Users/Visitor/Documents/Projects/Python/Projects/Youtube Playlist downloader/github",
+		"/C/Users/Visitor/Documents/Projects/Python/Projects/Youtube Playlist downloader/download_videos.py",
+		"/C/Users/Visitor/Documents/Projects/Python/Projects/Youtube Playlist downloader/checking_stream_qualitiess.py",
+		"/C/Users/Visitor/Documents/Projects/Python/MoshHamedani/Solo examples/tests example.py",
+		"/C/Users/Visitor/Documents/Projects/Python/Projects/Youtube Playlist downloader/checkingforavailablestrings.py",
+		"/C/Users/Visitor/Documents/Projects/Python/Projects/Youtube Playlist downloader/test1.py",
+		"/C/Users/Visitor/Documents/Projects/Python/MoshHamedani/Solo examples/app.py",
+		"/C/Users/Visitor/Documents/Projects/Python/MoshHamedani/Solo examples/Test1.py",
+		"/C/Users/Visitor/Documents/Projects/Python/MoshHamedani/Solo examples/strings.py",
+		"/C/Users/Visitor/Documents/Projects/Python/MoshHamedani/Solo examples/typeconversion.py",
+		"/C/Users/Visitor/Documents/Projects/Python/MoshHamedani/Solo examples/gettinginput.py",
+		"/C/Users/Visitor/Documents/Projects/Python/MoshHamedani/Solo examples/starters.py",
+		"/C/Users/Visitor/Documents/Projects/Python/MoshHamedani/Solo examples/starter.py",
+		"/C/Users/Visitor/Documents/Projects/Python/MoshHamedani/app.py",
+		"/C/Users/Visitor/Documents/Projects/Python/MoshHamedani/Test1.py",
+		"/C/Users/Visitor/Documents/Projects/Python/mysite/polls/views.py",
+		"/C/Users/Visitor/Documents/Projects/Python/mysite/polls/templates/polls/detail.html",
+		"/C/Users/Visitor/Documents/Projects/Python/mysite/polls/templates/polls/results.html",
+		"/C/Users/Visitor/Documents/Projects/Python/mysite/polls/templates/polls/index.html",
+		"/C/Users/Visitor/Documents/Projects/Python/mysite/polls/urls.py",
+		"/C/Users/Visitor/Documents/Projects/Python/mysite/polls/tests.py",
+		"/C/xampp/htdocs/aljs/Challenge/Profit calculator/main.css",
+		"/C/xampp/htdocs/aljs/Challenge/Profit calculator/gen.js",
+		"/C/xampp/htdocs/aljs/Challenge/Profit calculator/index.php",
+		"/C/Users/Elizabeth Ssebuliba/Desktop/liz.html",
+		"/C/Users/Elizabeth Ssebuliba/Desktop/testtest/input.py",
+		"/C/xampp/htdocs/aljs/3hr lesson/index.php",
+		"/C/xampp/htdocs/aljs/3hr lesson/gen.js",
+		"/C/xampp/htdocs/aljs/calichu/converter.php",
+		"/C/xampp/htdocs/aljs/index.php",
+		"/C/xampp/htdocs/aljs/sock.js",
+		"/C/xampp/htdocs/aljs/main.css",
+		"/C/xampp/htdocs/aljs/index.html",
+		"/C/Users/Elizabeth Ssebuliba/Documents/Abanoba/ACCESORIES/ARTICLES AND STUFF FOR SCHOOL/Year2 Sem2/Web desing/Class Work/javascript/dynamic.js",
+		"/C/xampp/htdocs/klarecycle/feedback.html",
+		"/C/xampp/htdocs/klarecycle/index.html",
+		"/C/xampp/htdocs/klarecycle/style.css",
+		"/C/xampp/htdocs/klarecycle/js.html",
+		"/C/xampp/htdocs/klarecycle/register.html",
+		"/C/Users/Elizabeth Ssebuliba/Documents/Abanoba/ACCESORIES/ARTICLES AND STUFF FOR SCHOOL/Year2 Sem2/Web desing/jsindex.html",
+		"/C/Users/Elizabeth Ssebuliba/Documents/Abanoba/ACCESORIES/ARTICLES AND STUFF FOR SCHOOL/Year2 Sem2/Web desing/Lecturer Work/first course work/all.css",
+		"/C/Users/Elizabeth Ssebuliba/Documents/Abanoba/ACCESORIES/ARTICLES AND STUFF FOR SCHOOL/Year2 Sem2/Web desing/Lecturer Work/first course work/boxes.css",
+		"/C/Users/Elizabeth Ssebuliba/Documents/Abanoba/ACCESORIES/ARTICLES AND STUFF FOR SCHOOL/Year2 Sem2/Web desing/Class Work/box float.html",
+		"/C/xampp/htdocs/liz/index.php",
+		"/C/xampp/htdocs/imm/phpGrid/conf.php",
+		"/C/xampp/htdocs/imm/db/InventoryManager_2017-06-22.sql",
+		"/C/Devs/odoo13.0/odoo-bin.config",
+		"/C/Devs/odoo13.0/odoo/setup.py",
+		"/C/Devs/odoo13.0/odoo/README.md",
+		"/C/xampp/htdocs/imm/barcodes.php",
+		"/C/xampp/htdocs/imm/outgoing-order.php",
+		"/C/xampp/htdocs/imm/products.php",
+		"/C/xampp/htdocs/imm/template.php",
+		"/C/xampp/htdocs/imm/incoming-purchases.php",
+		"/C/xampp/htdocs/imm/reports.php",
+		"/C/xampp/htdocs/imm/test.php",
+		"/C/Users/Elizabeth Ssebuliba/Desktop/pythonpractice/mysite/mysite/urls.py",
+		"/C/Users/Elizabeth Ssebuliba/Documents/Abanoba/ACCESORIES/ARTICLES AND STUFF FOR SCHOOL/Programming/Pyth0n/django/djangoVideos/djangotutorials/mysite/mysite/urls.py",
+		"/C/xampp/htdocs/imm/db/inventory_manager_schema.php",
+		"/C/xampp/htdocs/imm/inc/menu.php",
+		"/C/xampp/htdocs/imm/db/InventoryManager.sql",
+		"/C/xampp/htdocs/imm/db/inventory_manager_schema.dbs",
+		"/C/Users/Elizabeth Ssebuliba/PycharmProjects/Introduction to Python/Strings/String indexing/string_indexing.py",
+		"/C/Users/Elizabeth Ssebuliba/PycharmProjects/Introduction to Python/Loops/Break keyword/break_keyword.py",
+		"/C/Users/Elizabeth Ssebuliba/Documents/Abanoba/ACCESORIES/ARTICLES AND STUFF FOR SCHOOL/Programming/Pyth0n/django/djangoVideos/djangotutorials/mysite/manage.py",
+		"/C/Users/Elizabeth Ssebuliba/Documents/Abanoba/ACCESORIES/ARTICLES AND STUFF FOR SCHOOL/Programming/Pyth0n/django/djangoVideos/djangotutorials/mysite/mysite/settings.py",
+		"/C/Users/Elizabeth Ssebuliba/PycharmProjects/Django Tutorial/lesson1/task/manage.py",
+		"/C/Users/Elizabeth Ssebuliba/Documents/Abanoba/ACCESORIES/ARTICLES AND STUFF FOR SCHOOL/Programming/Pyth0n/PythonVideos/Learn Python - Full Course for Beginners.mp4",
+		"/C/Users/Elizabeth Ssebuliba/OneDrive/Setups/Guilty pl/Mine/idm-trial-reset-master/LICENSE",
+		"/C/Users/Elizabeth Ssebuliba/Desktop/testtest/intellij idea/structuresquiz.py",
+		"/C/Users/Elizabeth Ssebuliba/Desktop/testtest/intellij idea/lalala.py",
+		"/C/Users/Elizabeth Ssebuliba/Desktop/testtest/intellij idea/tests.py",
+		"/C/Users/Elizabeth Ssebuliba/IdeaProjects/Kotlin Koans/README.md",
+		"/C/Users/Elizabeth Ssebuliba/Desktop/testtest/loops/while/whilr.py",
+		"/C/Users/Elizabeth Ssebuliba/Desktop/testtest/Remember/var.kt",
+		"/C/Users/Elizabeth Ssebuliba/Desktop/testtest/Remember/doc.py",
+		"/C/Users/Elizabeth Ssebuliba/Desktop/haypa layit",
+		"//10.20.206.2/Software/OS/VMware Workstation 10.0.0 Build 1295980/ZWT/file_id.diz",
+		"/C/Users/Elizabeth Ssebuliba/Desktop/index.php",
+		"/C/Users/Elizabeth Ssebuliba/Desktop/testtest/dictionary.py",
+		"/C/Users/Elizabeth Ssebuliba/Desktop/testtest/loops/IF statement examples/advancedcalc.py",
+		"/C/Users/Elizabeth Ssebuliba/Desktop/testtest/loops/IF statement examples/boolean.py",
+		"/C/Users/Elizabeth Ssebuliba/Desktop/testtest/loops/IF statement examples/comparison.py",
+		"/C/Users/Elizabeth Ssebuliba/Desktop/testtest/Challenges/mrmee6.py",
+		"/C/Users/Elizabeth Ssebuliba/Desktop/testtest/loops/for/nyegenyege.py",
+		"/C/Users/Elizabeth Ssebuliba/Desktop/testtest/loops/for/forlexpo.py",
+		"/C/Users/Elizabeth Ssebuliba/Desktop/testtest/Challenges/tes1oop.py",
+		"/C/Users/Elizabeth Ssebuliba/Desktop/testtest/ebyok.py",
+		"/C/Users/Elizabeth Ssebuliba/Documents/Pyth0n/Small apps/tictactoe.py",
+		"/C/Users/Elizabeth Ssebuliba/OneDrive/Setups/Guilty pl/Jona/Red.Embrace.Hollywood/Red.Embrace.Hollywood/Red.Embrace.Hollywood/renpy/arguments.py",
+		"/C/Users/Elizabeth Ssebuliba/Desktop/testtest/loops/for/forlo.py",
+		"/C/Users/Elizabeth Ssebuliba/Desktop/testtest/Challenges/game1.py",
+		"/C/Users/Elizabeth Ssebuliba/Desktop/testtest/Challenges/game1",
+		"/C/Users/Elizabeth Ssebuliba/Desktop/testtest/IF statement examples/while/whilr.py",
+		"/C/Users/Elizabeth Ssebuliba/Desktop/testtest/IF statement examples/advancedcalc.py",
+		"/C/Users/Elizabeth Ssebuliba/Desktop/testtest/IF statement examples/dictionary.py",
+		"/C/Users/Elizabeth Ssebuliba/Desktop/testtest/IF statement examples/comparison.py",
+		"/C/Users/Elizabeth Ssebuliba/Desktop/testtest/IF statement examples/easyif.py",
+		"/C/Users/Elizabeth Ssebuliba/Desktop/testtest/madlibsg1.py",
+		"/C/Users/Elizabeth Ssebuliba/Desktop/testtest/lists.py",
+		"/C/Users/Elizabeth Ssebuliba/Desktop/testtest/returns.py",
+		"/C/Users/Elizabeth Ssebuliba/Desktop/testtest/Challenges/test1bool.py",
+		"/C/Users/Elizabeth Ssebuliba/Desktop/testtest/IF statement examples/New Text Document.txt",
+		"/C/Users/Elizabeth Ssebuliba/Desktop/testtest/tuples.py",
+		"/C/Users/Elizabeth Ssebuliba/Desktop/testtest/funky.py",
+		"/C/Users/Elizabeth Ssebuliba/Desktop/testtest/wde.py",
+		"/C/Users/Elizabeth Ssebuliba/Desktop/testtest/idle/control structures/if.py",
+		"/C/Users/Elizabeth Ssebuliba/Desktop/testtest/t.java",
+		"/C/Users/Elizabeth Ssebuliba/Desktop/testtest/wamz.java",
+		"/C/Users/Elizabeth Ssebuliba/Desktop/testtest/tes1oop.py",
+		"/C/Users/Elizabeth Ssebuliba/Documents/Abanoba/ACCESORIES/ARTICLES AND STUFF FOR SCHOOL/Programming/Pyth0n/input.py",
+		"/C/Users/Elizabeth Ssebuliba/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Elizabeth Ssebuliba/Documents/Abanoba/ACCESORIES/ARTICLES AND STUFF FOR SCHOOL/Programming/Andela/Mod1 Comp sci/one.py",
+		"/C/Users/Elizabeth Ssebuliba/Documents/Abanoba/ACCESORIES/ARTICLES AND STUFF FOR SCHOOL/Programming/Pyth0n/hello_world.py",
+		"/C/Users/Elizabeth Ssebuliba/Documents/NetBeansProjects/godzilla/dist/godzilla.jar",
+		"/C/Users/Elizabeth Ssebuliba/Music/NEWEWEWEWEST/Youtube/download.php",
+		"/C/Users/Elizabeth Ssebuliba/Documents/Abanoba/ACCESORIES/ARTICLES AND STUFF FOR SCHOOL/Year3 Sem2/finalProject/zzz emma/final versions/liz/index.php"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "app.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 204.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
